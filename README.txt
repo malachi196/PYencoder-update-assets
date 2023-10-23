@@ -19,5 +19,6 @@ utf-32 encoder v1.0.0 (PYencoder) ||| first official release, with bug fixes
 
 utf-32 encoder v1.0.5_TESTONLY ||| prerelease for 1.1.0, with updated colors
 
+utf-32 encoder v1.1.0 (PYencoder) ||| major update, with color changes and major bug fixes
 
 [all releases will be posted onto github*]
